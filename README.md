@@ -7,7 +7,8 @@ On the Bugtracker everything must be written in English. Before reporting, pleas
 
  - Use the search engine to find out if a similar problem has been already reported. If so, check if it's already been fixed and waits for update.
  - Make sure, that what you report is actually a bug.
- - Enclose links to things related to the bug using http://wowhead.com or http://cata.openwow.com
+ - Enclose links to things related to the bug using http://wowhead.com
+ - You can use screenshot ingame to visual the issue and for better understanding the problem.
  - Write your tickets according to the format:<br>
   * `[Quest][Azuremyst Isle]` Red Snapper - Very Tasty!<br>
   * `[NPC]` Magistrix Erona<br>
