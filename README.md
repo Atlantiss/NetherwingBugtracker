@@ -22,6 +22,6 @@ Additional Information
 | Supported patch:  | 2.4.3                                                     |
 |-------------------|:----------------------------------------------------------|
 | Bugtracker:       | https://github.com/Atlantiss/NetherwingBugtracker/issues  |
-| Forum:            | http://http://tbc.atlantiss.eu//                          |
+| Forum:            | https://forum.atlantiss.eu/netherwing/                    |
 | Website:          | http://beta.atlantiss.eu/                                 |
 | TeamSpeak:        | voice.atlantiss.eu                                        |
