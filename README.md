@@ -26,3 +26,6 @@ Additional Information
 | Forum:            | https://forum.atlantiss.eu/netherwing/                    |
 | Website:          | http://beta.atlantiss.eu/                                 |
 | TeamSpeak:        | voice.atlantiss.eu                                        |
+
+
+Addon to display bonus healing items properly: https://github.com/nullfoxh/HealingTooltipFix
