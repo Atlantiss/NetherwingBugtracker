@@ -6,6 +6,7 @@
 [//]: # ([Spell][Mage] Fireball)
 [//]: # ([Npc][Drop] Ghostclaw Lynx)
 [//]: # ([Web] Armory doesnt work)
+[//]: # (To find server revision type `.server info` command in the game chat.)
 
 **Description**: 
 
