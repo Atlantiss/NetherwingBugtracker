@@ -28,4 +28,4 @@ Additional Information
 | TeamSpeak:        | voice.atlantiss.eu                                        |
 
 
-Addon to display bonus healing items properly(at content patch 2.0): https://github.com/nullfoxh/HealingTooltipFix
+Addon to display bonus healing items properly(at content patch 2.0): https://github.com/nullfoxh/NWTooltipFix
