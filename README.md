@@ -7,7 +7,7 @@ On the Bugtracker everything must be written in English. Before reporting, pleas
 
  - Use the search engine to find out if a similar problem has been already reported. If so, check if it's already been fixed and waits for update.
  - Make sure, that what you report is actually a bug.
- - Enclose links to things related to the bug using http://wowhead.com
+ - Enclose links to things related to the bug using http://wowhead.com or Thottbot webarchive.
  - You can use screenshot ingame to visual the issue and for better understanding the problem.
  - Write your tickets according to the format:<br>
   * `[Quest][Azuremyst Isle]` Red Snapper - Very Tasty!<br>
@@ -26,6 +26,7 @@ Additional Information
 | Forum:            | https://forum.atlantiss.eu/netherwing/                    |
 | Website:          | http://beta.atlantiss.eu/                                 |
 | TeamSpeak:        | voice.atlantiss.eu                                        |
+| Realmlist:        | play.atlantiss.eu                                         |
 
 
 Addon to display bonus healing items properly(at content patch 2.0): https://github.com/nullfoxh/NWTooltipFix
