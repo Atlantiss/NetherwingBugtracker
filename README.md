@@ -24,7 +24,7 @@ Additional Information
 |-------------------|:----------------------------------------------------------|
 | Bugtracker:       | https://github.com/Atlantiss/NetherwingBugtracker/issues  |
 | Forum:            | https://forum.atlantiss.eu/netherwing/                    |
-| Website:          | http://beta.atlantiss.eu/                                 |
+| Website:          | http://atlantiss.eu/                                      |
 | TeamSpeak:        | voice.atlantiss.eu                                        |
 | Realmlist:        | play.atlantiss.eu                                         |
 
