@@ -23,7 +23,7 @@ Additional Information
 | Supported patch:  | 2.4.3                                                     |
 |-------------------|:----------------------------------------------------------|
 | Bugtracker:       | https://github.com/Atlantiss/NetherwingBugtracker/issues  |
-| Website:          | http://atlantiss.org/                                     |
+| Website:          | https://atlantiss.org/                                    |
 | Reddit:           | https://www.reddit.com/r/Atlantiss/                       |
 | Discord:          | http://discord.gg/atlantiss                               |
 | Realmlist:        | play.atlantiss.org                                        |
