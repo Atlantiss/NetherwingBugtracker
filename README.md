@@ -23,10 +23,10 @@ Additional Information
 | Supported patch:  | 2.4.3                                                     |
 |-------------------|:----------------------------------------------------------|
 | Bugtracker:       | https://github.com/Atlantiss/NetherwingBugtracker/issues  |
-| Forum:            | https://forum.atlantiss.eu/netherwing/                    |
-| Website:          | http://atlantiss.eu/                                      |
-| TeamSpeak:        | voice.atlantiss.eu                                        |
-| Realmlist:        | play.atlantiss.eu                                         |
+| Website:          | http://atlantiss.org/                                     |
+| Reddit:           | https://www.reddit.com/r/Atlantiss/                       |
+| Discord:          | http://discord.gg/atlantiss                               |
+| Realmlist:        | play.atlantiss.org                                        |
 
 
 Addon to display bonus healing items properly(at content patch 2.0): https://github.com/nullfoxh/NWTooltipFix
